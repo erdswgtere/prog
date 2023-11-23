@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/max/C#/prog/lab1_prog_Sinitsyn/Sort_C#/Sort_C#.csproj": {}
+    "/home/max/C#/test/git/Prog/prog/Sort_C#/Sort_C#.csproj": {}
   },
   "projects": {
-    "/home/max/C#/prog/lab1_prog_Sinitsyn/Sort_C#/Sort_C#.csproj": {
+    "/home/max/C#/test/git/Prog/prog/Sort_C#/Sort_C#.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/max/C#/prog/lab1_prog_Sinitsyn/Sort_C#/Sort_C#.csproj",
+        "projectUniqueName": "/home/max/C#/test/git/Prog/prog/Sort_C#/Sort_C#.csproj",
         "projectName": "Sort_C#",
-        "projectPath": "/home/max/C#/prog/lab1_prog_Sinitsyn/Sort_C#/Sort_C#.csproj",
+        "projectPath": "/home/max/C#/test/git/Prog/prog/Sort_C#/Sort_C#.csproj",
         "packagesPath": "/home/max/.nuget/packages/",
-        "outputPath": "/home/max/C#/prog/lab1_prog_Sinitsyn/Sort_C#/obj/",
+        "outputPath": "/home/max/C#/test/git/Prog/prog/Sort_C#/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/max/.nuget/NuGet/NuGet.Config"

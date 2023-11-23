@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "J+o34g/OOmpedAYguYvHO7YzeXONGHJWkRUkvtKI0p0U/UpNg6FRZmRaspZTcBfdxqRUWC/X4Y0YLlrs73e0Fg==",
+  "dgSpecHash": "B8ZUYG9d2V7UJlKvJiXpU5VKUCMFlvkLzcXZrvkxytybp5FrhJBoG8aAReElm6G7a/2M3a03PDpW7Xy6sq7giA==",
   "success": true,
-  "projectFilePath": "/home/max/C#/prog/lab1_prog_Sinitsyn/Sort_C#/Sort_C#.csproj",
+  "projectFilePath": "/home/max/C#/test/git/Prog/prog/Sort_C#/Sort_C#.csproj",
   "expectedPackageFiles": [
     "/home/max/.nuget/packages/benchmarkdotnet/0.13.10/benchmarkdotnet.0.13.10.nupkg.sha512",
     "/home/max/.nuget/packages/benchmarkdotnet.annotations/0.13.10/benchmarkdotnet.annotations.0.13.10.nupkg.sha512",

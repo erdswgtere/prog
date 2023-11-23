@@ -84,6 +84,19 @@ namespace MyNamespace
                         }
                    }
                 }
+                 public static void BubbleSort_IterationOut (ref int[] mas, ref int count){
+                    for (int i = 0; i < mas.Length-1; i++){
+                        for (int j = mas.Length-2; j >= i; j--) {
+                            if (mas[j] > mas[j+1]) {
+                                SortUt.Sortutils.MySwap(ref mas[j], ref mas[j+1]);
+                            }
+                            count++;
+                        }
+                    Console.WriteLine();
+                    Console.Write($"{i + 1})".PadRight(2));
+                    ArrMethodsVec.PrintMas(ref mas);
+                   }
+                }
                 public static void SelectionSort(ref int[] mas, ref int count) {
                     int min_idx;
                     for (int i = 0; i < mas.Length-1; i++) {

@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Sort_C_
-build_property.ProjectDir = /home/max/C#/prog/lab1_prog_Sinitsyn/Sort_C#/
+build_property.ProjectDir = /home/max/C#/test/git/Prog/prog/Sort_C#/
